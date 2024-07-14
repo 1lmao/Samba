@@ -115,8 +115,8 @@ Open File Explorer and enter the following in the address bar:
 
 Replace `<ip-address>` with the IP address of your Samba server and sambashare with the name of your share.
 
-When tryig to connect we kept getting the followiung error :
-
+When trying to connect we kept getting the followiung error :<br>
+![Samba Image](https://github.com/1lmao/Samba/raw/main/image.png)
 
 To solve this we had to go on Windows Registry and make some small changes. Please execute the following instructions:
 
